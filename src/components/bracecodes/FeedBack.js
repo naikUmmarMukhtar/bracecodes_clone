@@ -10,11 +10,11 @@ function FeedBack({ title, desc }) {
           </div>
           <div className="title">{title}</div>
           <div className="rating">
-            <img src="assets/images/rating star.png" />
-            <img src="assets/images/rating star.png" />
-            <img src="assets/images/rating star.png" />
-            <img src="assets/images/rating star.png" />
-            <img src="assets/images/rating star.png" />
+            <img src="assets/images/star.png" />
+            <img src="assets/images/star.png" />
+            <img src="assets/images/star.png" />
+            <img src="assets/images/star.png" />
+            <img src="assets/images/rating.png" />
           </div>
           <div className="desc">{desc}</div>
         </div>
